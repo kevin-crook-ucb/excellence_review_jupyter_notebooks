@@ -1,1 +1,1 @@
-# Jupyter Notebooks for MICS w202_Cryptography
+# Jupyter Notebooks for MICS w202 Cryptography
